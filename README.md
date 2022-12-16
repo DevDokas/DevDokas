@@ -173,23 +173,4 @@ I always been that tech addicted kid who loves learning about hardware and softw
     />
   </a>
   <br><br>
-  <a href="/">
-    <div align="center">
-      <img
-        align="center"
-        src="http://github-readme-streak-stats.herokuapp.com?user=bezerra-lucas&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D"
-        alt="bezerra-lucas"
-      />
-    </div>
-  </a>
-  <br>
-  <a href="/">
-    <div align="center">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=bezerra-lucas&show_icons=true&locale=en&count_private=true&layout=compact&theme=prussian&langs_count=6"
-        alt="bezerra-lucas"
-      />
-    </div>
-  </a>
 </p>
