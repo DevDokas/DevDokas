@@ -182,3 +182,8 @@ I always been that tech addicted kid who loves learning about hardware and softw
   </a>
   <br><br>
 </p>
+<div>
+  <img width="69%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
+</div>
+
