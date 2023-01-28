@@ -187,3 +187,4 @@ I always been that tech addicted kid who loves learning about hardware and softw
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
 </div>
 
+![snake gif](https://github.com/DevDokas/DevDokas/blob/output/github-contribution-grid-snake.svg)
