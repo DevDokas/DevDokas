@@ -1,11 +1,20 @@
 
-<a href="https://wa.me/5537999889788?text=Sejam%20bem-vindos!%20Me%20chame%20para%20um%20or%C3%A7amento%20ou%20consultoria." target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-</a>
 <h1 align="center">Hi 👋, I'm Igor Dokai Gomes</h1>
 <h3 align="center">
 I'm a student and freelance web developer.🤪 React.js fanboy 🤪.
 </h3> 
+<br>
+<div align="center">
+  <a href="https://wa.me/5537999889788?text=Sejam%20bem-vindos!%20Me%20chame%20para%20um%20or%C3%A7amento%20ou%20consultoria." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+  </a>
+  <a href="https://www.instagram.com/igordokai/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff8300?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198040224879/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+</div>
 <br>
 <h2 align="center">My history</h2>
 <p align="center">
