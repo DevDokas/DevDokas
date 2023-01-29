@@ -1,3 +1,7 @@
+
+<a href="https://wa.me/5537999889788?text=Bem-vindos!%20Me%20chame%20para%20um%20or%C3%A7amento%20ou%20consultoria." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
+</a>
 <h1 align="center">Hi 👋, I'm Igor Dokai Gomes</h1>
 <h3 align="center">
 I'm a student and freelance web developer.🤪 React.js fanboy 🤪.
