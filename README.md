@@ -33,6 +33,13 @@ I always been that tech addicted kid who loves learning about hardware and softw
       width="40"
       height="40"
     />
+  <a href="https://www.vagrantup.com/" target="_blank">
+    <img
+      src="https://gist.githubusercontent.com/DevDokas/b1eec11569876e584e53f74aa422e443/raw/f956e0668a76c4914a61dab476acf1e9ea9dcb01/vagrant.svg"                 alt="Vagrant"
+      width="40"
+      height="40"
+    />  
+  </a>
   </a>
     <a href="https://www.nginx.com" target="_blank">
     <img
