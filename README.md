@@ -11,6 +11,9 @@ I'm a student and freelance web developer.🤪 React.js fanboy 🤪.
   <a href="https://www.instagram.com/igordokai/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ff8300?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://www.igordokai.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/website-3e9c1c?style=for-the-badge&logo=About.me&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://www.linkedin.com/in/igor-nogueira-gomes-de-sousa-56a37125b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
