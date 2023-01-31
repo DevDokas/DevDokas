@@ -1,22 +1,25 @@
 
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Igor Dokai Gomes</h1>
+<h1 align="center">Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Igor Dokai Gomes</h1>
+<div align="center" >
+  <img width="30%" src="https://igordokai.com.br/assets/aboutme-cb3e969f.jpg" />
+</div>
 <h3 align="center">
-I'm a student and freelance web developer.🤪 React.js fanboy 🤪.
+I'm a student, Frontend Web Developer and freelancer focused in being a Fullstack Developer with DevOps knowledgement.
 </h3> 
 <br>
 <div align="center">
+  <a href="https://www.linkedin.com/in/igor-nogueira-gomes-de-sousa-56a37125b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/igordokai/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ec0d56?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="https://wa.me/5537999889788?text=Sejam%20bem-vindos!%20Me%20chame%20para%20um%20or%C3%A7amento%20ou%20consultoria." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-  <a href="https://www.instagram.com/igordokai/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff8300?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://www.igordokai.com.br" target="_blank">
     <img src="https://img.shields.io/badge/website-3e9c1c?style=for-the-badge&logo=About.me&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/igor-nogueira-gomes-de-sousa-56a37125b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561198040224879/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
@@ -215,10 +218,10 @@ I always been that tech addicted kid who loves learning about hardware and softw
 <h2 align="center" >My Stats</h2>
 <div>
     
-  <img align="right" width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
   
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/>
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=DevDokas&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/>
+  <img width="52%" src="http://github-readme-streak-stats.herokuapp.com/?user=DevDokas&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
 
 </div>
 
