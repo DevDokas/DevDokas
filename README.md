@@ -1,4 +1,5 @@
 
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Igor Dokai Gomes</h1>
 <h3 align="center">
 I'm a student and freelance web developer.🤪 React.js fanboy 🤪.
@@ -22,11 +23,13 @@ I'm a student and freelance web developer.🤪 React.js fanboy 🤪.
   </a>
 </div>
 <br>
+<!-- My History -->
 <h2 align="center">My history</h2>
 <p align="center">
 I always been that tech addicted kid who loves learning about hardware and software. Started coding in the middle of 2022, learning HTML, CSS, SASS, BOOTSTRAP, JavaScript, Node.js and now, React.js/Next.Js.  
 </p>
 <br>
+<!-- Languages and Tools -->
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank">
@@ -208,9 +211,15 @@ I always been that tech addicted kid who loves learning about hardware and softw
   </a>
   <br><br>
 </p>
+<!-- Stats -->
+<h2 align="center" >My Stats</h2>
 <div>
-  <img width="69%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
+    
+  <img align="right" width="43.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
+  
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/>
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=DevDokas&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
+
 </div>
 
 ![snake gif](https://github.com/DevDokas/DevDokas/blob/output/github-contribution-grid-snake.svg)
