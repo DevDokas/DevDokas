@@ -212,6 +212,14 @@ I always been that tech addicted kid who loves learning about hardware and softw
       height="40"
     />
   </a>
+    <a href="https://www.cypress.io" target="_blank">
+    <img
+      src="https://gist.github.com/DevDokas/c854deee94c42e520481ea25eb029df9"
+      alt="cypress"
+      width="40"
+      height="40"
+    />
+  </a>
   <br><br>
 </p>
 <!-- Stats -->
