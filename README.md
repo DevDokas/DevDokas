@@ -148,6 +148,22 @@ I always been that tech addicted kid who loves learning about hardware and softw
       height="40"
     />
   </a>
+    <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"
+      alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.cypress.io" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/gist/DevDokas/c854deee94c42e520481ea25eb029df9/raw/cb8bac786226aee5e394c368c8d052cb8aac6d1c/cypress.svg"
+      alt="cypress"
+      width="40"
+      height="40"
+    />
+  </a>
     <a href="https://redux.js.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -200,22 +216,6 @@ I always been that tech addicted kid who loves learning about hardware and softw
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img
-      src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://www.cypress.io" target="_blank">
-    <img
-      src="https://gist.github.com/DevDokas/c854deee94c42e520481ea25eb029df9"
-      alt="cypress"
       width="40"
       height="40"
     />
