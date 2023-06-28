@@ -227,8 +227,8 @@ I always been that tech addicted kid who loves learning about hardware and softw
 <div>
     
   <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical"/>
-  
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&preferLogin=false">    <img width="51%" alt="DevDokas's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/DevDokas?cardType=level&theme=radical&preferLogin=false" />  </a>
+  <!-- <img width="51%" src="https://github-readme-stats.vercel.app/api?username=devdokas&show_icons=true&theme=radical"/> -->
   <img width="51%" src="http://github-readme-streak-stats.herokuapp.com/?user=DevDokas&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" />
 
 </div>
