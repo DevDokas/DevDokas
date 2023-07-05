@@ -31,6 +31,9 @@ I'm a student, Frontend Web Developer and freelancer focused in being a Fullstac
 <p align="center">
 I always been that tech addicted kid who loves learning about hardware and software. Started coding in the middle of 2022, learning HTML, CSS, SASS, BOOTSTRAP, JavaScript, Node.js and now, React.js/Next.Js.  
 </p>
+<p align="center">
+Nowadays i'm studing Angular, Java and a bit of Springboot for my first job of my Developer Carrer 🤩 🥳.
+</p>  
 <br>
 <!-- Languages and Tools -->
 <h2 align="center">Languages and Tools:</h2>
