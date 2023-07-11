@@ -2,7 +2,8 @@
 <!-- Header -->
 <h1 align="center">Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Igor Dokai Gomes</h1>
 <div align="center" >
-  <img width="30%" src="https://igordokai.com.br/assets/aboutme-cb3e969f.jpg" />
+  <!-- Trocar imagem -->
+  <!-- <img width="30%" src="https://igordokai.com.br/assets/aboutme-cb3e969f.jpg" /> -->
 </div>
 <h3 align="center">
 I'm a student, Frontend Web Developer and freelancer focused in being a Fullstack Developer with DevOps knowledgement.
